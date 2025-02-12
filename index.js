@@ -36,6 +36,7 @@ const startGame = () => {
         scale(1),
         anchor("center"),
     ]);
+    onClick( () => {    go("game");});
     onKeyPress("space", () => {    go("game");});
 }
 
