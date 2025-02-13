@@ -8,7 +8,7 @@ const BACKGROUND_COLOR = Color.fromHex('#b6e5ea');
 const PIPE_COLOR = Color.fromHex('#74c02e');
 
 const PIPE_WIDTH = 64;
-const PIPE_BORDER = 4;
+const PIPE_BORDER = 2;
 const PIPE_OPEN = 230;
 const PIPE_MIN_HEIGHT = 50;
 
